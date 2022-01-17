@@ -16,3 +16,4 @@ jobs:
           plugin_introduction: yes
           plugin_followup: yes
           plugin_followup_sections: user
+          plugin_languages: yes
