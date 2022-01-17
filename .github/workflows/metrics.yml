@@ -14,7 +14,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_introduction: yes
-          plugin_code: yes
-          plugin_code_lines: 12 
-          plugin_code_load: 100
-          plugin_code_visibility: public
+          plugin_followup: yes
+          plugin_followup_sections: user
